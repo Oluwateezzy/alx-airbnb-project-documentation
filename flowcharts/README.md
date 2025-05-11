@@ -2,7 +2,7 @@
 
 ```mermaid
 flowchart TD
-    A[Start: User selects "Sign Up"] --> B[Display Registration Form]
+    A[Start: User selects Sign Up] --> B[Display Registration Form]
     B --> C[User enters personal info, email, password]
     C --> D{Validate Information}
     D -- Invalid --> E[Show error message]
