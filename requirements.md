@@ -1,10 +1,4 @@
-Here's a complete `requirements.md` document covering three key backend features: **User Authentication**, **Property Management**, and **Booking System**. This includes API endpoints, input/output specs, validation rules, and performance criteria, as requested.
 
----
-
-## 📄 requirements.md
-
-````markdown
 # Airbnb Clone – Backend Feature Requirements
 
 ## 1. User Authentication
@@ -26,7 +20,7 @@ Registers a new user.
   "password": "Secret123!",
   "role": "guest" // or "host"
 }
-````
+```
 
 **Validation:**
 
